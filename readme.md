@@ -15,7 +15,7 @@
 ## 安装与运行
 1. 克隆代码仓库：
    ```bash
-   git clone https://github.com/your_username/fridge-wizard.git
+   git clone https://github.com/Gracies9868/kitchenApp.git
    ```
 2. 在 Android Studio 中打开项目并运行。
 
