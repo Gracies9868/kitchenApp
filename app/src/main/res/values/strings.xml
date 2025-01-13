@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">食材灵感小助手</string>
+    <string name="input_ingredients_hint">有什么食材？</string>
+    <string name="input_ingredients_example">例如：鸡蛋、番茄、洋葱</string>
+    <string name="recommended_recipes">推荐菜谱</string>
+    <string name="filter">筛选</string>
+</resources>
